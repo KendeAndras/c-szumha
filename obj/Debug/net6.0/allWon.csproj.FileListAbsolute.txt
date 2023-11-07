@@ -1,0 +1,14 @@
+C:\Users\f26xc0\Desktop\f26\C#\allWon\bin\Debug\net6.0\allWon.exe
+C:\Users\f26xc0\Desktop\f26\C#\allWon\bin\Debug\net6.0\allWon.deps.json
+C:\Users\f26xc0\Desktop\f26\C#\allWon\bin\Debug\net6.0\allWon.runtimeconfig.json
+C:\Users\f26xc0\Desktop\f26\C#\allWon\bin\Debug\net6.0\allWon.dll
+C:\Users\f26xc0\Desktop\f26\C#\allWon\bin\Debug\net6.0\allWon.pdb
+C:\Users\f26xc0\Desktop\f26\C#\allWon\obj\Debug\net6.0\allWon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f26xc0\Desktop\f26\C#\allWon\obj\Debug\net6.0\allWon.AssemblyInfoInputs.cache
+C:\Users\f26xc0\Desktop\f26\C#\allWon\obj\Debug\net6.0\allWon.AssemblyInfo.cs
+C:\Users\f26xc0\Desktop\f26\C#\allWon\obj\Debug\net6.0\allWon.csproj.CoreCompileInputs.cache
+C:\Users\f26xc0\Desktop\f26\C#\allWon\obj\Debug\net6.0\allWon.dll
+C:\Users\f26xc0\Desktop\f26\C#\allWon\obj\Debug\net6.0\refint\allWon.dll
+C:\Users\f26xc0\Desktop\f26\C#\allWon\obj\Debug\net6.0\allWon.pdb
+C:\Users\f26xc0\Desktop\f26\C#\allWon\obj\Debug\net6.0\allWon.genruntimeconfig.cache
+C:\Users\f26xc0\Desktop\f26\C#\allWon\obj\Debug\net6.0\ref\allWon.dll
